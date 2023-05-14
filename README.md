@@ -1,4 +1,4 @@
 # phpmvc
 First New Repo
 
-# Update content ofReademe
+# Update content of Reademe
